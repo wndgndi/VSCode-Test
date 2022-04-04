@@ -28,4 +28,8 @@ And this is Blockquotes test
 - [x] This is a complete item <br>
 - [ ] This is an incomplete item
 
-<span style="color:green">Change color</span>
+<span style="color: #008000">Change color</span>
+
+<span style='background-color: #f5f0ff'>형광펜 연습</span>
+
+<span style="color: blue">gray color</span>
