@@ -25,5 +25,7 @@ And this is Blockquotes test
 
 [wndgndi](https://blog.naver.com/wndgndi)
 
-[x] This is a complete item <br>
-[] This is an incomplete item
+- [x] This is a complete item <br>
+- [ ] This is an incomplete item
+
+<span style="color:green">Change color</span>
